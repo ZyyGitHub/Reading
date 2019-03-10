@@ -1,6 +1,6 @@
-我的读书历程
-Computer Science 计算机科学
-Basics 基础/经典
+#我的读书历程
+#Computer Science 计算机科学
+#Basics 基础/经典
  《编码》
  《深入理解计算机系统 第3版》
  《编译原本》
