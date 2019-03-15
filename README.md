@@ -1,7 +1,7 @@
 我的读书历程
 Computer Science 计算机科学
 Basics  基础/经典
-- [ ]《编码》:+1:
+- [ ]《编码》
 - [ ]《深入理解计算机系统 第3版》
 - [ ]《编译原本》
 - [ ]《重构 改善既有代码的设计》
@@ -32,12 +32,10 @@ Architecture  架构
 - [ ]《Designing Data-Intensive Applications》 
 - [ ]《大型网站技术架构演进与性能优化》
 - [ ]《大型分布式网站架构设计与实践》 
-Entrepreneurship  创业/管理
-- [ ]
 History  历史
-- [ ]
+- [x]《人类简史：从动物到上帝》2019.3.15 :+1:
 Literature  文学
-- [ ]
+- [ ]《》
 Biography  传记
 - [ ]《鞋狗》
 Thinking  思维
