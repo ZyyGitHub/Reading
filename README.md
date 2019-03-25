@@ -29,7 +29,7 @@
 - [ ] 《算法引论：一种创造性的方法》
 - [ ] 《算法》
 
-Database  数据库
+### Database  数据库
 
 - [ ] 《高性能MySQL》 
 - [ ] 《MySQL技术内幕 InnoDB存储引擎》
@@ -48,9 +48,9 @@ Database  数据库
 ### History  历史
 - [x] 《人类简史：从动物到上帝》2019.3.15 :+1:
 
-Literature  文学
+### Literature  文学
 
-Biography  传记
+### Biography  传记
 - [ ] 《鞋狗》
 
 ### Thinking  思维
